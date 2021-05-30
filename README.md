@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React App for user list using React Hook and Async function. 
 
-this app build to get list of users .
+This app build to get list of users .
 I use react hook and asyn function . 
 
 ## Available Scripts
