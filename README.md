@@ -3,7 +3,7 @@
 This app build to get list of users .
 I use react hook and asyn function . 
 
-## Available Scripts
+## Clone code 
 
 In the project directory, you can run:
 
